@@ -1,0 +1,77 @@
+{
+  "header": {
+    "home": "Home",
+    "about": "About",
+    "myWork": "My Work",
+    "location": "Location",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "footer": {
+    "developedAndMaintainedBy": "Developed and Maintained by",
+    "developerName": "Developer Eye"
+  },
+  "home": {
+    "welcome": "Welcome to",
+    "studio": "Suraj Studio & Editing",
+    "intro": "\"Suraj Studio & Editing\" is dedicated to transforming moments into memories, blending creativity with precision to capture the essence of every occasion, ensuring each frame resonates with emotion and authenticity, delivering unparalleled visual storytelling that stands the test of time and evokes cherished sentiments."
+  },
+  "about": {
+    "title": "About Me",
+    "welcome": "Welcome to Suraj Studio & Editing",
+    "description": "Welcome to Suraj Studio & Editing. At our studio, we specialize in capturing life's most beautiful moments. Whether it's stunning photography or captivating videography, we ensure your memories are preserved with exceptional quality. Our expert team uses state-of-the-art equipment to deliver breathtaking images and videos, perfect for any occasion. Trust us to store your precious memories with care and creativity, creating timeless keepsakes you'll cherish forever. Visit us and let our camera tell your unique story with unparalleled artistry and professionalism.",
+    "connectWithUs": "Connect with us:"
+  },
+  "contact": {
+    "heading": "Contact Us",
+    "name": "Name",
+    "whatsappNumber": "WhatsApp Number",
+    "message": "Enquiry Message",
+    "sendMessage": "Send Message",
+    "placeholders": {
+      "name": "Enter Your Full Name",
+      "whatsappNumber": "Enter Your WhatsApp Number",
+      "message": "Enter Your Enquiry Message ..."
+    },
+    "successMessage": "Your message has been sent successfully.",
+    "successTitle": "Message Sent!",
+    "contactCard": {
+      "name": "Suraj Dey",
+      "phone": "Phone",
+      "email": "Email"
+    }
+  },
+  "testimonials": {
+    "heading": "Client Review",
+    "testimonial": "Testimonial",
+    "addReview": "Add Your Review",
+    "yourName": "Your Name",
+    "yourReview": "Your Review",
+    "rating": "Rating",
+    "submitReview": "Submit Review",
+    "thankYou": "Thank you!",
+    "reviewSubmitted": "Your review has been submitted."
+  },
+  "location": {
+    "heading": "Our Location",
+    "workAddressTitle": "Work Address",
+    "workAddress": "Suraj Studio & Editing,\nRouthkhanda, Joypur, Bankura\nWest Bengal, 722154",
+    "phone": "Phone",
+    "email": "Email",
+    "happyClients": "Happy Clients",
+    "clientsServed": "Clients served with excellence!"
+  },
+  "myWork": {
+    "heading": "My Work",
+    "projects": [
+      "Project 1",
+      "Project 2",
+      "Project 3",
+      "Project 4",
+      "Project 5",
+      "Project 6",
+      "Project 7",
+      "Project 8"
+    ]
+  }
+}
