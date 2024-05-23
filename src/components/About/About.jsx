@@ -51,7 +51,7 @@ const About = () => {
         <div className="md:w-1/2 px-4 md:px-8 mt-8 md:mt-0">
           <h2 className="text-xl font-semibold mb-4">{t("about.welcome")}</h2>
           <p className="text-gray-500">{t("about.description")}</p>
-          {/* <p className="text-gray-700 leading-relaxed mt-4">{currentService}</p> */}
+          <p className="text-gray-700 leading-relaxed mt-4">{currentService}</p>
           <div className="mt-6 flex items-center justify-center space-x-4">
             <h2 className="text-lg font-semibold mr-4">
               {t("about.connectWithUs")}
